@@ -3,5 +3,5 @@
 ## Install
 
 ```shell
-brew install remote.console
+brew tap pie-o-neer-studios/remote.console; brew install remote.console
 ```
